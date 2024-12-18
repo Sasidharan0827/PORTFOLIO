@@ -16,6 +16,7 @@ Welcome to the **Portfolio Website** repository! This project is a personal port
 ```
 index.html       - Main HTML file
 style.css        - CSS file for styling
+script.js        - For add scripts to make it intactive
 assets/          - Folder containing images, icons, etc.
 README.md        - Project documentation
 ```
