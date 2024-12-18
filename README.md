@@ -45,6 +45,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Name**: Fali Sam Nariman
-- **Email**: [Your Email Address]
+- **Name**: Sasidharan
+- **Email**: sasidharan0827@gmail.com
 - **Phone**: +91 9994101850
